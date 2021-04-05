@@ -1,0 +1,140 @@
+	* {
+  box-sizing: border-box;
+}
+
+.validpage{
+  font-size:40px;
+  text-align:center;
+  font-family:Georgia;
+  color:#606060;
+  padding:5px 10px 5px 15px
+}
+          
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid grey;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: PaleVioletRed;
+  color: black;
+  border-radius:17px;
+  padding: 12px 20px;
+  border: solid white;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #d9d9d9;
+}
+
+input[type=reset] {
+  background-color: PaleVioletRed;
+  color: black;
+  border-radius:17px;
+  padding: 12px 20px;
+  border: solid white;
+  cursor: pointer;
+}
+
+input[type=reset]:hover {
+  background-color: #d9d9d9;
+}
+
+.container {
+  border-radius: 5px;
+  padding: 10px
+}
+
+
+h1{
+font-size:40px
+} 
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+.luthier1{
+font-size:20px;
+text-align:center;
+font-family:Georgia;
+background-color:#ffffff00;
+border:double 10px height:100px width:80px DimGrey;
+color:GoldenRod;
+padding:5px 10px 5px 15px;
+}
+
+body{
+  background-color:NavajoWhite;
+  background-repeat:no-repeat;
+  background-size:cover
+    }
+	
+* {
+	-webkit-transition-property: all;
+	-webkit-transition-duration: .2s;
+  -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+	-moz-transition-property: all;
+  -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+}
+.style-1 {
+	text-align: center;
+}
+.btn{
+  color:BurlyWood;
+  background:LemonChiffon;
+  padding:10px 20px;
+  border-radius:20px;
+  text-decoration:none;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+
+label{
+      font-family:georgia;
+      font-size:18px;
+      color:mintcream;	  
+     }	
+
+img{
+	     height:400px;
+         margin-left:60px;
+		 margin-top:150px;
+		 border-style:solid;
+		 border-color:white;
+		 border-radius:50px
+        }
+input{
+border-radius:20px;
+}
+
+#subject{
+border-radius:20px;	
+}
+
+#country{
+border-radius:20px;	
+}

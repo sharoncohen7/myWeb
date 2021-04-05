@@ -1,0 +1,131 @@
+    .luthier1{
+	font-size:20px;
+	text-align:center;
+	font-family:Georgia;
+	background-color:#ffffff00;
+	border:double 10px height:100px width:80px DimGrey;
+	color:GoldenRod;
+	padding:5px 10px 5px 15px;
+	}
+	
+     h2{
+     font-size:30px
+     } 
+
+	 .mainmsg{
+		 text-align:center;
+	 }
+
+	 
+	 #msg{
+		 font-size:30px;
+		 text-align:center;
+		 font-family:Georgia;
+		 color:GoldenRod;
+	 }
+	 
+	 #about{
+     text-align:center;
+	 font-family:Georgia;
+	 background-color:#ffffff00;
+	 border:double 10px height:100px width:80px DimGrey;
+	 color:#606060;
+	 }
+	 
+	 #myPic{
+    width:200px;
+    height:200px;
+	 margin-left:850px;
+    margin-right: auto;
+	border-radius:20px
+	 }
+	 
+	 .me{
+    font-family:Garamond;
+	font-size:26px;
+	color:black;
+	text-align:center;
+	 }
+	 
+	 
+      #me{
+       height:230px;
+       width:230px;
+	   border-radius:30px;
+	   margin-left:850px;
+
+}           
+
+	 #top{
+	 text-decoration:underline;
+     }
+	 
+    .bord2{
+	font-size:15px;
+	color:GoldenRod;
+	font-family:Garamond;
+	text-align:center;
+	}
+	
+	.bord3{
+	font-size:15px;
+	color:#606060;
+	font-family:Garamond
+	}
+	
+	.bord4{
+	font-size:15px;
+	color:GoldenRod;
+	font-family:Garamond;
+	text-align:center;
+	}
+	
+	.bold{
+    font-family:Garamond;
+	font-size:26px;
+	color:black;
+	text-align:center;
+	}
+	
+	.JimmiHendrix{
+    width:350px;
+    height:300px;
+    margin-left:760px;
+    margin-right: auto;
+	border-radius:20px
+	}
+	
+    .SRV{
+    width:350px;
+    height:300px;
+    margin-left:750px;
+    margin-right: auto;
+	border-radius:20px
+	}
+	
+	.SteveVai{
+    width:350px;
+    height:300px;
+    margin-left:750px;
+    margin-right: auto;
+	border-radius:20px
+	}
+	
+	.EVH{
+    width:350px;
+    height:300px;
+    margin-left:750px;
+    margin-right: auto;
+	border-radius:20px;
+	}
+	
+	body{
+	background-color:FloralWhite;
+	background-repeat:no-repeat;
+	background-size:cover
+    }
+	
+
+
+
+
